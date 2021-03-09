@@ -1,3 +1,6 @@
+# Projeto de Requisição HTTP para API de posts (curso ReactJS)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
